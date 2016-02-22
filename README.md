@@ -21,7 +21,7 @@ Local Text source files must be in a .txt format.  One word cloud is generated f
 
 ![Dialog1](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Word_Cloud_Visualization/master/Screenshot/Dialog1.PNG)
 ---
-##### Output:
+##### User Interface 2:
 The second tab for this node is Display & Save Options.
 
 The tab contains options for text preparation, defaulting to removing punctuation, numbers, and (‘english’) stop words from the text.  
