@@ -64,6 +64,11 @@ Documentation and samples
 - Find a PDF with the documentation of this extension in the [Documentation][2] directory
 - There is a sample available in the [Example][3] directory
 
+---
+Known issues
+----
+Modeler support R 3.2.x only, but install.package may install latest package only, which sametimes install failed. As a workaround, please install old version dependency package manaully.
+Refer to this article http://stackoverflow.com/questions/17082341/installing-older-version-of-r-package about how to install old version package.
 
 ---
 License
